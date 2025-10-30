@@ -7,3 +7,4 @@ Pillow
 matplotlib
 tqdm
 argparse
+requests
