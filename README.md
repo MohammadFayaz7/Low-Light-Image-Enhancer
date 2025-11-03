@@ -1,1 +1,1 @@
-https://low-light-image-enhancer-wbujnmffmzbbwhuh7daaia.streamlit.app/
+https://low-light-image-enhancer-cnn.streamlit.app/
